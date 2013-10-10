@@ -6,7 +6,6 @@ sdílejte zážitky se svými přáteli a plánujte si další zajímavé výlet
 <h2>Autoři</h2>
 <ul>
 	<li>Aleš Woska</li>
-	<li>Tomáš Filípek</li>
 	<li>Pavel Pilař</li>
 	<li>Jaroslav Kubát</li>
 </ul>
