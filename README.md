@@ -1,9 +1,7 @@
 <h1>Zápisník cest</h1>
 
-<p>Zápisník cest je nový webový projekt, díky kterému můžete pohodlně ukládat informace o navštívených místech. Mějte přehled o tom, kde jste byli,
-sdílejte zážitky se svými přáteli a plánujte si další zajímavé výlety!</p>
+<p>Zápisník cest je nový webový projekt, díky kterému můžete pohodlně ukládat informace o navštívených místech. Mějte přehled o tom, kde jste byli, sdílejte zážitky se svými přáteli a plánujte si další zajímavé výlety!</p>
 
-<h2>O co jde</h2>
 <p>Zápisník cest bude dostupný přes web a také jako aplikace pro mobilní zařízení. Na mapě pomocí kliku nebo přes GPS souřadnice můžete označit místo které jste navštívili. Také můžete zvolit o jaký typ cesty se jednalo (poznávací zájezd, výlet, nádná návštěva, pracovní cesta). Ze své cesty můžete přidávat fotografie, videa, své zážitky formou poznámek nebo zpráv do fóra. Přes mobilní aplikaci sdílejte své zážitky přímo z navštíveného místa jedním klikem.</p>
 
 <p>Jedete do ciziny a nevíte, jaká místa navštívit? Po kliknutí na místo na mapě, nebo po zadání filtru, si nechte zobrazit zajímavá místa ve vaší cílové destinaci. Včetně tras! Pro snadnější filtrování a hledání bude Zápisník podporovat tagování.</p>    
@@ -18,7 +16,9 @@ sdílejte zážitky se svými přáteli a plánujte si další zajímavé výlet
 
 <h2>Autoři</h2>
 <ul>
-	<li>Aleš Woska</li>
-	<li>Pavel Pilař</li>
-	<li>Jaroslav Kubát</li>
+	<li>Aleš Woska <i style="color: silver;">olesh at seznam.cz</i></li>
+	<li>Pavel Pilař <i style="color: silver;">pilar.pavel.pili at google.com</i></li>
+	<li>Jaroslav Kubát <i style="color: silver;">jk.kubat at seznam.cz</i></li>
+	<li>Luca Mecella <i style="color: silver;">dydmec at gmail.com</i></li>
+	<li>Simone Chiappa <i style="color: silver;">dydchiappa  at gmail.com</i></li>
 </ul>
