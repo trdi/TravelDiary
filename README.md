@@ -15,8 +15,8 @@ Already a user of Facebook and you do not want to carry all marked points to ano
 Want to raise the profile of your organization? For a fee, your places will be added more detail, greater preference for finding and recommendations to users.
 
 ## Authors
-* [Aleš Woska](ales-woska)
-* [Pavel Pilař](bageta)
-* [Jaroslav Kubát](j4rd4)
-* [Luca Mecella](luca89)
-* [Simone Chiappa](Simone88)
+* [Aleš Woska](http://github.com/ales-woska)
+* [Pavel Pilař](http://github.com/bageta)
+* [Jaroslav Kubát](http://github.com/j4rd4)
+* [Luca Mecella](http://github.com/luca89)
+* [Simone Chiappa](http://github.com/Simone88)
