@@ -1,20 +1,20 @@
-<h1>Zápisník cest</h1>
+<h1>Travel diary</h1>
 
-<p>Zápisník cest je nový webový projekt, díky kterému můžete pohodlně ukládat informace o navštívených místech. Mějte přehled o tom, kde jste byli, sdílejte zážitky se svými přáteli a plánujte si další zajímavé výlety!</p>
+<p>Travel diary is a new Web project through which you can conveniently store information about the places you visited. Keep track of where you've been, share experiences with friends and plan your next exciting trip!</p>
 
-<p>Zápisník cest bude dostupný přes web a také jako aplikace pro mobilní zařízení. Na mapě pomocí kliku nebo přes GPS souřadnice můžete označit místo které jste navštívili. Také můžete zvolit o jaký typ cesty se jednalo (poznávací zájezd, výlet, nádná návštěva, pracovní cesta). Ze své cesty můžete přidávat fotografie, videa, své zážitky formou poznámek nebo zpráv do fóra. Přes mobilní aplikaci sdílejte své zážitky přímo z navštíveného místa jedním klikem.</p>
+<p>Travel diary will be available through the web and as an application for mobile devices. On the map using the knob or via GPS can mark the place you visited. You can also choose the type of a trip (sightseeing tours, excursion, bilge visit, business trip). From his journey you can add photos, videos, share experiences in the form of notes or messages in the forums. Through mobile application share your experiences from the visited places with one click.</p>
 
-<p>Jedete do ciziny a nevíte, jaká místa navštívit? Po kliknutí na místo na mapě, nebo po zadání filtru, si nechte zobrazit zajímavá místa ve vaší cílové destinaci. Včetně tras! Pro snadnější filtrování a hledání bude Zápisník podporovat tagování.</p>    
+<p>Going abroad and do not know what places to visit? After clicking on a location on the map or by entering a filter to display all points of interest in your destination. Including routes! For ease of filtering and search the notebook support tagging.</p>    
 
-<p>Jestliže patříte mezi zkušené cestovatele, můžete k navštívenému místu zadat trasu. Ušetříte tím otatním, méně zkušeným, uživatelům spoustu času hledáním nejvhodnější cesty. Vy budete mít dobrý pocit pomoci, a ostatní vám budou vděční.</p>
+<p>If you are a seasoned traveler, you can specify a route to the visited place. Save others, less experienced, users plenty of time to find the most appropriate way. You will feel good to help, and others will be grateful.</p>
 
-<p>Budete moci hodnotit doporučení jiných uživatelů a tím zvýšit jejich reputaci. U uživatele s vysokou reputací tak máte velkou jistotu, že radí opravdu dobře.</p>
+<p>You will be able to evaluate the recommendations of other users to enhance their reputation. Users with high reputation have great confidence that advises really well.</p>
 
-<p>Jste již uživatelem sociální sítě Facebook a nechce se vám přenášet všechno označená místa do jiné aplikace? Nevadí, po zadání přístupu si Zápisník cest stáhne všechna vaše navětívená místa. Své zážitky z cest můžete sdílet s přáteli, a nakonec jim navíc poradit, kam se mohou také vydat, a jakou nejlepší cestou jít. Plánujeme také propojení s Google Maps, pro lepší orientaci a snadnější hledání objektů.</p>
+<p>Already a user of Facebook and you do not want to carry all marked points to another application? Never mind, after entering the access roads Travel Diary will download all your visited places. Your travel experiences you can share with friends, and finally the extra help where they can also take and what's the best way to go. We plan to integrate with Google Maps, for better understanding and easier to find objects.</p>
 
-<p>Chcete zviditelnit vaši organizaci? Za poplatek k vašim místům přidáme více detailů, větší preference při vyhledávání a doporučení uživatelům.</p>
+<p>Want to raise the profile of your organization? For a fee, your places will be added more detail, greater preference for finding and recommendations to users.</p>
 
-<h2>Autoři</h2>
+<h2>Authors</h2>
 <ul>
 	<li>Aleš Woska <i style="color: silver;">olesh at seznam.cz</i></li>
 	<li>Pavel Pilař <i style="color: silver;">pilar.pavel.pili at google.com</i></li>
